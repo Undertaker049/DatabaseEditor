@@ -1,2 +1,2 @@
 # DatabaseEditor
-Python-based MS SQL Database Editor
+Tk-based MS SQL Database Editor
